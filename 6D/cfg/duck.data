@@ -1,0 +1,14 @@
+train  = LINEMOD/duck/test.txt
+valid  = LINEMOD/duck/train.txt
+backup = backup/duck
+mesh = LINEMOD/duck/duck.ply
+tr_range = LINEMOD/duck/training_range.txt
+name = duck
+diam = 0.109
+gpus = 3
+width = 640
+height = 480
+fx = 939.434279
+fy = 942.118559
+u0 = 598.700393
+v0 = 354.870424
